@@ -1,9 +1,0 @@
-[programs.localnet]
-token_escrow = "YourProgramIdHere"
-
-[provider]
-cluster = "localnet"
-wallet = "~/.config/solana/id.json"
-
-[scripts]
-test = "anchor test"
